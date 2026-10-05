@@ -83,43 +83,33 @@ Customers can give a review a title and attach one photo or video. Reviews with 
 
 ## 7.7 NEW and BESTSELLER badges
 
-Product cards and the product page's main picture can carry a small **NEW** or **BESTSELLER** badge in the corner, next to the Sale badge. They're added by themselves:
+New products get a **NEW** badge and well-selling products a **BESTSELLER** badge by themselves. You set how long and how many in **Theme Options → Shop page** ([2.2](02-theme-options.md#22-shop-page)).
 
-- **NEW**: products published in the last 30 days.
-- **BESTSELLER**: products whose total sales reach the threshold you set.
+**To change one product's badges:**
 
-Both numbers, and switches to turn each badge off for the whole shop, are in **Kawaii Life → Theme Options → Shop page → Product cards** (see [2.2](02-theme-options.md#22-shop-page)).
-
-**To change one product's badges**, edit the product and open the **Product Badges** tab in **Product data**:
+1. Edit the product.
+2. In **Product data**, click the **Product Badges** tab.
+3. **NEW badge**: choose **Always show** or **Never show (disable)**. Keep **Automatic** to let the shop decide.
+4. Tick **Disable Bestseller** to never show the BESTSELLER badge on this product.
+5. Click **Update**.
 
 ![The Product Badges tab](../images/product-badges-tab.png)
 
-- **NEW badge**: **Automatic (based on publish date)** is the usual choice. **Always show** keeps the badge on (for a product you want to keep promoting as new); **Never show (disable)** keeps it off.
-- **Disable Bestseller**: tick it to never show the BESTSELLER badge on this product, however much it sells.
-
-Click **Update** to save.
-
 ## 7.8 Gift boxes (bundles)
 
-The **Study Box**, **Kawaii Girl Box** and **Premium Gift Box** are **bundles**: one product made of several others. The product page lists what's inside, each item with its picture, and the cart, cart drawer and checkout show the box with its items underneath.
+A gift box, such as the **Kawaii Girl Box**, is one product made of several others. Its page lists everything inside it.
 
 **To make a new gift box:**
 
-1. Click **Add new product** and type its name, description and pictures as for any product.
+1. Click **Add new product** and add its name, description and pictures as usual.
 2. In **Product data**, change the drop-down at the top to **Smart bundle**.
-3. In the **Bundled Products** tab, search for each product to put in the box and set how many of each.
-4. **Price**: by itself, the box costs the items' prices added up (less any **Discount** you set in the same tab). To charge your own price instead, as the three gift boxes do, tick **Disable auto calculate price.** and type the price in **General**.
+3. In the **Bundled Products** tab, search for each product to put in the box and set how many.
+4. To set your own price, tick **Disable auto calculate price.** and type the price in the **General** tab. Otherwise the box costs its items added up.
 5. Click **Publish**.
 
 ![The Bundled Products tab of a gift box](../images/product-bundle-tab.png)
 
-On the site, the box's page lists everything inside it:
-
 ![A gift box on the site](../images/fe-bundle.png)
-
-The shop-wide bundle options (where the item list sits on the product page, how the price is shown) are under **WPClever → Product Bundles**.
-
-💡 Unless you tick **Enable stock management at bundle level.**, a box is in stock only while every item in it is.
 
 ---
 

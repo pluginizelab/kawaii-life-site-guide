@@ -11,7 +11,7 @@ All of these are ordinary pages under **Pages**, built from Kawaii Life's blocks
 | **Delivery Information** | Delivery zones, times and charges are typed into the **Delivery Zones** block. ⚠️ They don't update from your shipping settings, so change them here if your charges change. |
 | **Returns & Exchanges** | Return steps, what can be returned, and the **Return request** form. |
 | **Wholesale** | Price tiers and the wholesale inquiry form. |
-| **Order Tracking** | Two tabs. **Order number**: shoppers type their order number and the phone they ordered with, and see the order's summary and five-step timeline. **Steadfast parcel**: they paste a Steadfast tracking link or code (from the Shipped email) and see the parcel's status and updates, or paste the order link from an email. Switch either tab off in **Theme Options → Delivery → Order tracking** ([2.4](02-theme-options.md#24-delivery)). |
+| **Order Tracking** | Shoppers type their order number and phone, or their Steadfast tracking code, to see where their order is. Nothing to set up. |
 | **Careers** | Job openings come from **JobPress** (see below). |
 | **Privacy Policy**, **Terms of Service** | **Policy** blocks. Each numbered **Policy Section** is listed under "On this page". |
 

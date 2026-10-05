@@ -16,7 +16,7 @@ You land on the **Dashboard**. The menu on the left lists everything you can man
 | **Pages** | The site's pages: Home, About Us, FAQ, Delivery Information and so on |
 | **Posts** | Blog articles (Kawaii World articles) |
 | **Videos** | Brand videos shown on the Kawaii World page |
-| **Kawaii Life** | Theme Options, the Wishlist, Search and Cart logs, Most Added Products, SMS Contacts, and shortcuts to the sales, cart abandonment and search reports |
+| **Kawaii Life** | Theme Options, shopper activity logs, SMS Contacts and reports |
 | **WooCommerce → Orders** | Customer orders |
 | **SteadFast** | The courier: your Steadfast account, balance and settings |
 | **Products** | Products, categories, Friends (characters) and reviews |

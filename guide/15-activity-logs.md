@@ -18,7 +18,7 @@ These pages show what shoppers are interested in. Use them to plan stock and pro
 
 ![Cart Log](../images/cart-log.png)
 
-**Most Added Products**: the products found most often in **abandoned carts** (carts that were filled but never checked out), with how many times each was left behind. Switch between **All Time**, **Last 7 Days** and **Last 30 Days** above the list. These are products people want but stop short of buying: good candidates for an offer or a reminder.
+**Most Added Products**: the products shoppers most often leave in their cart without buying. Good candidates for an offer. Pick **All Time**, **Last 7 Days** or **Last 30 Days** above the list.
 
 ![Most Added Products](../images/most-added-products.png)
 

@@ -24,10 +24,10 @@ Check your Alpha SMS balance, and that they typed their number as `01XXXXXXXXX`.
 Open the order, click the pencil ✏️ next to **Shipping**, change it and click **Update**.
 
 **A customer can't find their order on the Order Tracking page.**
-On the **Order number** tab they need the order number and the phone number they ordered with (any way of writing it works: 017…, +88017…). Once the order is shipped, the Steadfast tracking code from the Shipped email works on the **Steadfast parcel** tab.
+They need the order number and the phone number they ordered with. Once it's shipped, the tracking code from the Shipped email works too.
 
 **An order is stuck on Shipped though the customer has it.**
-Click **Check** in the order's **DeliveryStatus** column in **WooCommerce → Orders**, or set the order to **Delivered** yourself. If this keeps happening, check the Steadfast webhook (section 10.3).
+Click **Check** in the order's **DeliveryStatus** column in **WooCommerce → Orders**, or set the order to **Delivered** yourself. If this keeps happening, contact Revo Interactive.
 
 **The footer's Follow Us links are missing.**
 Fill in your profiles in **Kawaii Life → Theme Options → General → Social profiles** and click **Save Changes**.

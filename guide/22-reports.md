@@ -16,7 +16,7 @@
 
 - **Kawaii Life → Search Log / Cart Log / Wishlist Logs / Most Added Products**: see [section 15](15-activity-logs.md).
 
-💡 The **Kawaii Life** menu also has shortcuts to these reports, so the shop's numbers are in one place: **Product Sales Report** (Ninjalytics), **Cart Abandonment Report** (the follow-up list of abandoned carts) and **Search Analytics** (FiboSearch's search statistics). The cart abandonment list has a **Phone** column with the number typed at checkout, and its CSV export includes it, so you can call shoppers who didn't finish.
+💡 You'll also find **Product Sales Report**, **Cart Abandonment Report** and **Search Analytics** in the **Kawaii Life** menu, so all reports are in one place. The Cart Abandonment Report shows each shopper's phone, so you can call them.
 
 ---
 
