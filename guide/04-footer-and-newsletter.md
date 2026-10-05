@@ -17,7 +17,7 @@ To edit them:
 ![Editing the footer in the Site Editor](../images/site-editor-footer.png)
 
 - **Footer links** (Shop, Kawaii Life, Help): click a link, then click the link icon in the small toolbar to change where it goes.
-- **Follow Us** links (Instagram, Facebook, TikTok, YouTube, WhatsApp): click each one and paste your profile address. ⚠️ They point nowhere until you do this.
+- **Follow Us** links (Instagram, Facebook, TikTok, YouTube, WhatsApp) aren't edited here: they come from **Kawaii Life → Theme Options → General → Social profiles** (see [2.5](02-theme-options.md#25-general)). Only the channels you fill in are listed, and with none filled in the Follow Us heading is hidden too.
 - **We Accept**: the payment logos are images; click one to replace or remove it.
 - **The newsletter form** is the `[sibwp_form id=1]` box. Its fields and colours are edited in Brevo (see [section 20](20-sms-email-newsletter.md)).
 - Click **Save** (top-right) when you're done.

@@ -2,7 +2,7 @@
 
 # 15. Wishlists, searches and carts (activity logs)
 
-**Where:** **Kawaii Life → Wishlist Logs / Search Log / Cart Log**
+**Where:** **Kawaii Life → Wishlist Logs / Search Log / Cart Log / Most Added Products**
 
 These pages show what shoppers are interested in. Use them to plan stock and promotions.
 
@@ -17,6 +17,10 @@ These pages show what shoppers are interested in. Use them to plan stock and pro
 **Cart Log**: products added to carts, by whom and when.
 
 ![Cart Log](../images/cart-log.png)
+
+**Most Added Products**: the products found most often in **abandoned carts** (carts that were filled but never checked out), with how many times each was left behind. Switch between **All Time**, **Last 7 Days** and **Last 30 Days** above the list. These are products people want but stop short of buying: good candidates for an offer or a reminder.
+
+![Most Added Products](../images/most-added-products.png)
 
 ## 15.1 How "Just for You" recommendations work
 

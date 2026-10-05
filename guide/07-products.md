@@ -17,6 +17,7 @@
    - **Linked Products**: see [7.5](#75-you-may-also-like-and-complete-your-set).
    - **Attributes** and **Variations**: for sizes or colours (see [7.4](#74-products-with-colours-sizes-or-styles)).
    - **Product page**: Kawaii Life's own tab (see [7.3](#73-the-product-page-tab-taglines-video-shipping-and-returns-text)).
+   - **Product Badges**: the NEW and BESTSELLER badges for this product (see [7.7](#77-new-and-bestseller-badges)).
 4. On the right:
    - **Product categories**: tick its category.
    - **Friends**: tick the character(s), if it's a character product.
@@ -79,6 +80,46 @@ Customers can give a review a title and attach one photo or video. Reviews with 
 
 - Hover over a review and click **Approve** to publish it, **Spam** or **Trash** to remove it.
 - The **Photo / video** column shows what they attached. Check it before approving.
+
+## 7.7 NEW and BESTSELLER badges
+
+Product cards and the product page's main picture can carry a small **NEW** or **BESTSELLER** badge in the corner, next to the Sale badge. They're added by themselves:
+
+- **NEW**: products published in the last 30 days.
+- **BESTSELLER**: products whose total sales reach the threshold you set.
+
+Both numbers, and switches to turn each badge off for the whole shop, are in **Kawaii Life → Theme Options → Shop page → Product cards** (see [2.2](02-theme-options.md#22-shop-page)).
+
+**To change one product's badges**, edit the product and open the **Product Badges** tab in **Product data**:
+
+![The Product Badges tab](../images/product-badges-tab.png)
+
+- **NEW badge**: **Automatic (based on publish date)** is the usual choice. **Always show** keeps the badge on (for a product you want to keep promoting as new); **Never show (disable)** keeps it off.
+- **Disable Bestseller**: tick it to never show the BESTSELLER badge on this product, however much it sells.
+
+Click **Update** to save.
+
+## 7.8 Gift boxes (bundles)
+
+The **Study Box**, **Kawaii Girl Box** and **Premium Gift Box** are **bundles**: one product made of several others. The product page lists what's inside, each item with its picture, and the cart, cart drawer and checkout show the box with its items underneath.
+
+**To make a new gift box:**
+
+1. Click **Add new product** and type its name, description and pictures as for any product.
+2. In **Product data**, change the drop-down at the top to **Smart bundle**.
+3. In the **Bundled Products** tab, search for each product to put in the box and set how many of each.
+4. **Price**: by itself, the box costs the items' prices added up (less any **Discount** you set in the same tab). To charge your own price instead, as the three gift boxes do, tick **Disable auto calculate price.** and type the price in **General**.
+5. Click **Publish**.
+
+![The Bundled Products tab of a gift box](../images/product-bundle-tab.png)
+
+On the site, the box's page lists everything inside it:
+
+![A gift box on the site](../images/fe-bundle.png)
+
+The shop-wide bundle options (where the item list sits on the product page, how the price is shown) are under **WPClever → Product Bundles**.
+
+💡 Unless you tick **Enable stock management at bundle level.**, a box is in stock only while every item in it is.
 
 ---
 
