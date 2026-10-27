@@ -8,7 +8,7 @@
 
 ![Alpha SMS settings](../images/alpha-sms.png)
 
-Alpha SMS sends the login and sign-up codes, and can text customers when their order changes status.
+Alpha SMS sends the login and sign-up codes, and can text customers when their order changes status. For the features built on top of it, see [26. What we built on top of Alpha SMS](26-sms-features.md).
 
 - **Balance** shows how much SMS credit is left.
 - **Notify Customer**: switch on the order statuses you want a text for (for example *Confirmed*, *Shipped* and *Delivered*), then click **Save all changes**.

@@ -43,4 +43,4 @@ Revo Interactive, who built the site. Note the page address and what you clicked
 
 ---
 
-← [24. Not live yet](24-not-live-yet.md) · [Contents](../README.md)
+← [24. Not live yet](24-not-live-yet.md) · [Contents](../README.md) · [26. What we built on top of Alpha SMS](26-sms-features.md) →

@@ -39,6 +39,7 @@ You don't need any technical knowledge. Every task is a short list of steps with
 23. [Backups](guide/23-backups.md)
 24. [Not live yet](guide/24-not-live-yet.md)
 25. [Quick answers](guide/25-quick-answers.md)
+26. [What we built on top of Alpha SMS](guide/26-sms-features.md)
 
 ---
 
